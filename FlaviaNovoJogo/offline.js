@@ -1,0 +1,33 @@
+﻿{
+	"version": 1559006480,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/personagemdojogo-sheet0.png",
+		"images/botãodeatirar-sheet0.png",
+		"images/botãodeatirar-sheet1.png",
+		"images/shooter-sheet0.png",
+		"images/embaixo-sheet0.png",
+		"images/embaixo-sheet1.png",
+		"images/emcima-sheet0.png",
+		"images/emcima-sheet1.png",
+		"images/esquerda-sheet0.png",
+		"images/esquerda-sheet1.png",
+		"images/direita-sheet0.png",
+		"images/direita-sheet1.png",
+		"images/fundo-sheet0.png",
+		"images/fundo-sheet1.png",
+		"images/vilão-sheet0.png",
+		"images/botondstroy-sheet0.png",
+		"images/barradvida-sheet0.png",
+		"images/barradvidaofc-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
